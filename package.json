@@ -1,0 +1,27 @@
+{
+  "name": "fido2_clientside",
+  "version": "1.0.0",
+  "description": "Fido2 / WebAuthn clientside JS designed to be embeded into browser applications' frontend. This package allows developers to conveniently communicate with FIDO / WebAuthn authenticators and with a validating backend.",
+  "main": "WebAuthn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAFETECHio/FIDO2_CLIENT_Libraries.git"
+  },
+  "keywords": [
+    "FIDO2",
+    "FIDO",
+    "WebAuthn"
+  ],
+  "author": "Samuel Hawksby-Robinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAFETECHio/FIDO2_CLIENT_Libraries/issues"
+  },
+  "homepage": "https://github.com/SAFETECHio/FIDO2_CLIENT_Libraries#readme",
+  "dependencies": {
+    "jquery": "3.4.*"
+  }
+}
