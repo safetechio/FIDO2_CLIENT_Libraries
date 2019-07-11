@@ -15,7 +15,7 @@
     "FIDO",
     "WebAuthn"
   ],
-  "author": "Samuel Hawksby-Robinson",
+  "author": "Samuel Hawksby-Robinson <samuel@samyoul>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SAFETECHio/FIDO2_CLIENT_Libraries/issues"
