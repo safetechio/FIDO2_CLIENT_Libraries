@@ -200,3 +200,5 @@ class SAFETECHioWebAuthn {
         })
     }
 }
+
+export {SAFETECHioWebAuthn, SAFETECHioWebAuthnConfig};
