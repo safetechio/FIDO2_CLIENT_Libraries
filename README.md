@@ -1,4 +1,4 @@
-# FIDO 2 / WebAuthn Client Side JS Library
+# FIDO 2 / WebAuthn Client Side JS Library (SafeTech Dev.)
 
 For more advanced details of how to use this library please see the [php full stack example](https://github.com/SAFETECHio/PHP-FIDO2-Example). 
 
