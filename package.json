@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/SAFETECHio/FIDO2_CLIENT_Libraries#readme",
   "dependencies": {
-    "jquery": "3.4.*"
+    "jquery": "3.5.*"
   }
 }
